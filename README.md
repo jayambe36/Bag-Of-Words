@@ -1,9 +1,11 @@
 # Bag-Of-Words
 Bag of Words is the Text Visualization or Text Modeling technique of NLP (Natural Language Processing)
 
+
 Project on Bag of Words (NLP)
 
 🔗Steps:
+
 👁️ Import Libraries
 
 🌓 Text Data
